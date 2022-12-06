@@ -1,0 +1,45 @@
+.resimSlider{
+    height: 600px;
+}
+body{
+    padding-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+.ayrac{
+    border:none;
+    border-top:3px solid #0a3055;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #0a3055;
+    position: relative;
+    top:-55px;
+    font-size: 40px;
+    border:10px solid white;
+    background-color: white;
+}
+.igri{
+    color: #0a3055;
+    position: relative;
+    top:-55px;
+    font-size: 40px;
+    border:10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.takimCard>img:hover{
+    opacity: 0.8;
+}
+.card-title{
+    font-weight:bold;
+}
+.galeri{
+    background-color: #f2f2f2;
+}
+.figure:hover{
+    opacity: 0.8;
+}
